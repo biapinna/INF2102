@@ -19,3 +19,5 @@ Instale as dependências.
     pip install -r requirements.txt
 
 Execute o script principal.
+
+    python nome_do_script.py
