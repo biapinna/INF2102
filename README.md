@@ -20,4 +20,4 @@ Instale as dependências.
 
 Execute o script principal.
 
-    python nome_do_script.py
+    python forecast_models.py
