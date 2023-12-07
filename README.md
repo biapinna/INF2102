@@ -15,3 +15,7 @@ Instale as dependências.
     pip install -r requirements.txt
 
 Execute o script de exemplo.
+
+# Contato
+
+e-mail: pinnarbeatriz@tecgraf.puc-rio.br
