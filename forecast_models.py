@@ -141,7 +141,7 @@ def plot_best_model_error(metrics_df):
     plt.show()
 
 # Função para plotar o gráfico da previsão do consumo por break_variable
-def plot_consumption_by_break_variable(data, model, numeric_features, categorical_features, target, break_variable):
+def plot_target_by_break_variable(data, model, numeric_features, categorical_features, target, break_variable):
     unique_values = data[break_variable].unique()
 
     plt.figure(figsize=(16, 8 * len(unique_values)))
